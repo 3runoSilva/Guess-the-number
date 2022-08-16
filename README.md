@@ -1,2 +1,2 @@
 # Guess-the-number
- This is a small game that implements some of the knowledge i acquire during my JS course
+ This is the first project from my online JavaScript course, it dates from 11/2021 when i first embarked on my journey to become a developer web.
